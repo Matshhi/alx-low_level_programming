@@ -1,2 +1,2 @@
 #!/bin/bash
-echo CFILE=0main.c ; ./preprocess.c
+export CFILE=0main.c ; echo ./preprocess.c
