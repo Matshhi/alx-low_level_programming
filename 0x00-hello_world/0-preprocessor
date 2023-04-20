@@ -1,2 +1,2 @@
 #!/bin/bash
-export CFILE=main.c ; ./preprocess_c.sh
+export CFILE=input.c ; ./preprocess_c.sh
