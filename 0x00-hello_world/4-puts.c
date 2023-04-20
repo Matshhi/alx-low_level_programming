@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
-* main -  a C program that prints exactly "Programming is like building a multilingual puzzel."
+* main -  C program that prints exactly
+* "Programming is like building a multilingual puzzel."
 *Return: 0 always
 */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle\n");
 
-return(0);
+return (0);
 }
