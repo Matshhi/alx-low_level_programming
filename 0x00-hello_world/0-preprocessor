@@ -1,2 +1,2 @@
 #!/bin/bash
-echo CFILE=input.c ; ./preprocess_c.sh
+echo CFILE=0main.c ; ./preprocess.c
