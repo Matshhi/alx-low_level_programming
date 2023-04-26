@@ -19,7 +19,7 @@ if (j < 4000000 && (j % 2) == 0)
 sum = sum + j;
 }
 next = j + k;
-j + k;
+j = k;
 k = next;
 }
 printf("%lu\n", sum);
