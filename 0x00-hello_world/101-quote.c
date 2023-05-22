@@ -1,10 +1,11 @@
 #include <stdio.h>
 
  /**
-  * main - A function that prints a string to the stderr
+  * main - function that prints a string to the stderr.
   *
   * Return: 1
   */
+
 int main(void)
 {
 	fprintf(stderr,
